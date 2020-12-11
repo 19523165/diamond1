@@ -1,0 +1,18 @@
+1. 19523097 - Karina Khoiriyah Pertiwi
+   - Membuat plain navbar
+   - Membuat halaman beranda/homepage
+   - Membuat halaman setting
+   - Membuat halaman about
+   - Membuat halaman my activity
+   - Membuat poster
+
+2. 00000000 - Rafiqoh Salas Maharani
+   - Membuat halaman create soal
+
+3. 00000000 - Ardhya Pramesti Regita
+   - Membuat halaman login
+   - Membuat halaman register/signup
+   - Membuat halaman history
+   - Membuat database
+   - Mengkoneksikan ke database
+   - Membuat presentasi video
